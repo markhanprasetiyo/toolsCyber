@@ -20,7 +20,7 @@ echo '''\a
 \033[34;1m                             / |
 \033[34;1m                             | |
 \033[34;1m                             | |
-\033[34;1m                            _|_|_ satu...
+\033[34;1m                            _|_|_ '''
 sleep 1
 apt update && apt upgrade
 apt install nano
@@ -39,7 +39,7 @@ echo '''\a
 \033[32;1m                            |___ \
 \033[32;1m                             __) |
 \033[32;1m                            / __/
-\033[32;1m                           |_____| dua...
+\033[32;1m                           |_____| '''
 sleep 1
 apt install php
 pip2 install mechanize
@@ -58,7 +58,7 @@ echo '''\a
 \033[35;1m                           |___ /
 \033[35;1m                             |_ \
 \033[35;1m                            ___) |
-\033[35;1m                           |____/  tiga...
+\033[35;1m                           |____/ '''
 sleep 1
 clear
 echo
@@ -73,7 +73,7 @@ echo '''\a
 \033[33;1m                           | || |
 \033[33;1m                           | || |_
 \033[33;1m                           |__   _|
-\033[33;1m                              |_|  empat...
+\033[33;1m                              |_| '''
 sleep 1
 clear
 echo
@@ -88,23 +88,23 @@ echo '''\a
 \033[36;1m                            | ___|
 \033[36;1m                            |___ \
 \033[36;1m                             ___) |
-\033[36;1m                            |____/  lima...
+\033[36;1m                            |____/ '''
 sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR  :  Cyber  "$i"                    Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp:  08522931####"$i"                Ôûê"
-echo $i"Ôûê"$pu"  GMAIL   :  skinbasebol@gmail.com"$i"     Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE :  Cyber Squad"$i"                 Ôûê"
+echo $i"Ôûê"$pu"  AUTHOR  :  RAHMAD  "$i"                    Ôûê"
+echo $i"Ôûê"$pu"  WhatsApp:  0888099xxxxx"$i"                Ôûê"
+echo $i"Ôûê"$pu"  GMAIL   :  kucingkaget22@gmail.com"$i"     Ôûê"
+echo $i"Ôûê"$pu"  YOUTUBE :  YouTube RMD"$i"                 Ôûê"
 echo $pur"==================="$cy" ============================="
 echo
 echo $cy"MeNu BRUTEPORCE NeWS:"
-echo $ku"["$me"1"$ku"]"$i" BLOCK FACEBOOK"
-echo $ku"["$me"2"$ku"]"$i" BRUTE FORCE"
-echo $ku"["$me"3"$ku"]"$i" BRUTE FORCE FB PASSWORD"
+echo $ku"["$me"1"$ku"]"$i" REPORT FB"
+echo $ku"["$me"2"$ku"]"$i" BRUTE PORCE"
+echo $ku"["$me"3"$ku"]"$i" BRUTE FORCE FB CRACKER"
 echo $ku"["$me"4"$ku"]"$i" MBF"
-echo $ku"["$me"5"$ku"]"$i" CLONING ACCOUT YAHOO"
+echo $ku"["$me"5"$ku"]"$i" CLONING YAHOO"
 echo $ku"["$me"6"$ku"]"$i" OSIF"
 echo $ku"["$me"7"$ku"]"$i" PROFILEGUARD FB"
 echo $ku"["$me"8"$ku"]"$i" BOT REACTION FACEBOOK"
@@ -113,8 +113,9 @@ echo $ku"["$me"10"$ku"]"$i" SPAM WHATSHAPP"
 echo $ku"["$me"11"$ku"]"$i" YOUTUBE-DL"
 echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
 echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU"
-echo $ku"["$me"14"$ku"]"$i" LIMIT WI-FI "
+echo $ku"["$me"14"$ku"]"$i" EVILLIMITER"
 echo $i"["$me"15"$i"]"$ku" EXIT"
+echo
 echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
 read -p"Ôò¦ÔöÇ>> " pil
 
@@ -263,7 +264,6 @@ python3 setup.py install
 evillimiter
 fi
 
-
 if [ $pil = 15 ]
 then
 clear
@@ -275,12 +275,12 @@ echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
 sleep 2
 echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
 sleep 2
-echo $ku"Facebook :"$i" Cyber Squad"
-echo $ku"YouTube  :"$i" Cyber Squad"
-echo $ku"WhatsApp :"$i" 08522931xxxx"
+echo $ku"Facebook :"$i" Rahmad Ramadhani"
+echo $ku"YouTube  :"$i" YouTube RMD"
+echo $ku"WhatsApp :"$i" 0887882xxxx"
 sleep 2
 echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
-echo $pur"SUBSCRIBE MY CHANNEL { Cyber Squad }"
+echo $pur"SUBSCRIBE MY CHANNEL { YOUTUBE RMD }"
 exit
 fi
